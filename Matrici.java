@@ -35,6 +35,7 @@ public class Matrici
                 System.out.print("\t"+m[r][c]);
             }
             System.out.println();
+            // Commento da parte di Luca Galli
         }
                     
        
